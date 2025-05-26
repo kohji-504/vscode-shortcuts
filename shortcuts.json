@@ -1,0 +1,14 @@
+[
+  {
+    "category": "編集",
+    "description": "行をコピー",
+    "mac": "Shift + Option + Down",
+    "windows": "Shift + Alt + Down"
+  },
+  {
+    "category": "ナビゲーション",
+    "description": "定義へ移動",
+    "mac": "F12",
+    "windows": "F12"
+  }
+]
